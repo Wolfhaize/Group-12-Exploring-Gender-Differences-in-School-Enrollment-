@@ -1,10 +1,10 @@
 # Title: Exploring Gender Differences in School Enrollment
 
 ## Introduction:
-We will examine how boys and girls are distributed across different grade levels and uncover any variations in enrollment. By analyzing a comprehensive dataset from various schools, we aim to gain insights that promote fairness and equality in education. Let's dive into our research questions and methods used to explore the data.
+We will examine how boys and girls are distributed across different grade levels and uncover any variations in enrollment. By analyzing a comprehensive dataset from various schools, we aim to gain insights that promote fairness and equality in education. 
 
 ## Project Overview:
-Our project focuses on understanding gender differences in school enrollment. We believe it's important to address any gaps and understand why these differences exist. By analyzing the dataset, we aim to discover information that can guide educational policies and practices, striving for equal opportunities in school.
+Our project focuses on understanding gender differences in school enrollment. By analyzing the dataset, we aim to discover information that can guide educational policies and practices, striving for equal opportunities in school.
 
 ## Research Questions:
 During our analysis, we aimed to answer the following questions:
