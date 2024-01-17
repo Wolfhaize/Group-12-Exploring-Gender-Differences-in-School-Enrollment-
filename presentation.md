@@ -13,17 +13,17 @@ It groups pupil enrollment across the different classes from P1 to P7 by gender.
 ## Results and Findings:
 
 ### Linear regression: 
-R-squared score: 0.7773644327276159
-Root Mean Squared Error (RMSE): 19.429361445215857
+R-squared score: 0.8042197125396413
+Root Mean Squared Error (RMSE): 20.19232522615958
 
 
 ### KNN:
-R-squared score (KNN): 0.736001497840642
-Root Mean Squared Error (RMSE) (KNN): 21.15738484154725
+R-squared score (KNN): 0.7542425036581504
+Root Mean Squared Error (RMSE) (KNN): 22.62326270466673
 
 ### Regression Tree:
-R-squared score (Regression Tree): 0.6171373533012638
-Root Mean Squared Error (RMSE) (Regression Tree): 25.47902194883242
+R-squared score (Regression Tree): 0.6348934741684115
+Root Mean Squared Error (RMSE) (Regression Tree): 27.57475417034871
 
 
 
@@ -36,13 +36,13 @@ We will implement the linear regression model for our dataset.
 The R-squared score, measures the proportion of the variance in the dependent variable (y) that can be explained by the independent variable(s) (X) in the model. It ranges from 0 to 1, where 0 indicates that the model does not explain any of the variance in the data, and 1 indicates that the model perfectly explains all the variance.
 
 
-The linear regression model has the highest R-squared score of 0.8045, indicating that approximately 80.45% of the variance in girls enrollment can be explained by the boys enrollment. This suggests that the linear regression model captures a stronger relationship between the variables compared to the other KNN and Regression Tree models that have 75.62% and 76.82% respectively.
+The linear regression model has the highest R-squared score of 0.8042, indicating that approximately 80.42% of the variance in girls enrollment can be explained by the boys enrollment. This suggests that the linear regression model captures a stronger relationship between the variables compared to the other KNN and Regression Tree models that have 75.42% and 63.48% respectively.
 
 #### RMSE: 
 Root Mean Squared Error is a measure of the average deviation between the predicted values and the actual values. 
 
 
-The linear regression model has the lowest RMSE value of 20.1775. A lower RMSE indicates that the model's predictions are, on average, closer to the actual values. In this case, the linear regression model has the smallest average deviation from the actual girls enrollment numbers compared to the other KNN and Regression Tree models that have 22.5292 and 21.9699 respectively.
+The linear regression model has the lowest RMSE value of 20.1923. A lower RMSE indicates that the model's predictions are, on average, closer to the actual values. In this case, the linear regression model has the smallest average deviation from the actual girls enrollment numbers compared to the other KNN and Regression Tree models that have 22.6232 and 27.5747 respectively.
 
 Considering both the R-squared score and RMSE, the linear regression model outperforms the KNN regression and regression tree models in terms of capturing the relationship between boys and girls enrollment and providing more accurate predictions.
 
