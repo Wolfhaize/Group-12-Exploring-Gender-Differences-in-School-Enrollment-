@@ -13,17 +13,17 @@ It groups pupil enrollment across the different classes from P1 to P7 by gender.
 ## Results and Findings:
 
 ### Linear regression: 
-R-squared score: 0.7773644327276159
-Root Mean Squared Error (RMSE): 19.429361445215857
+- R-squared score: 0.7773644327276159
+- Root Mean Squared Error (RMSE): 19.429361445215857
 
 
 ### KNN:
-R-squared score (KNN): 0.736001497840642
-Root Mean Squared Error (RMSE) (KNN): 21.15738484154725
+- R-squared score (KNN): 0.736001497840642
+- Root Mean Squared Error (RMSE): 21.15738484154725
 
 ### Regression Tree:
-R-squared score (Regression Tree): 0.6171373533012638
-Root Mean Squared Error (RMSE) (Regression Tree): 25.47902194883242
+- R-squared score (Regression Tree): 0.6171373533012638
+- Root Mean Squared Error (RMSE) : 25.47902194883242
 
 
 
